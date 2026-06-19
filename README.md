@@ -1,6 +1,5 @@
 # Fit Fusion - AI-Powered Fitness Platform
 
-![Fit Fusion Logo](public/logo192.png)
 
 Transform your fitness journey with intelligent coaching, comprehensive tracking, and personalized recommendations.
 
